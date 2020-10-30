@@ -53,6 +53,8 @@ The PHOBOS Instruments QUIK Knobs prototype's enclosure has been cut using balti
 
 K40 Whisperer detects all the red strokes as levels to cut, blues to engrave, and blacks to raster engrave. As you will see from the template, the QUIK logo is a raster engrave, while all the other cuts and holes are vectorial cuts. We would recommend to engrave the raster first, and cutting last.
 
+You could also generate your own box that best suits your needs, using services such as [MakerCase](https://www.makercase.com/) or [Make A Box](https://makeabox.io/)
+
 We have used the following settings to cut and engrave the QUIK Knobs:
 * Raster engrave: Power: 10%, Speed: 100mm/s
 * Vector cut: Power: 20%, Speed: 7mm/s (one pass)
