@@ -51,9 +51,9 @@ IN 8 | D9
 # Enclosure
 The PHOBOS Instruments QUIK Knobs prototype's enclosure has been cut using baltic birch 3mm wood sheets. This type of wood is quite soft and easy to cut with an entry level laser cut such as the K40.
 
-K40 Whisperer detects all the red strokes as levels to cut, blues to engrave, and blacks to raster engrave. As you will see from the template, the QUIK logo is a raster engrave, while all the other cuts and holes are vectorial cuts. We would recommend to engrave the raster first, and cutting last.
+K40 Whisperer detects all the red strokes as levels to cut, blues to engrave, and blacks to raster engrave. As you will see from the [template](https://github.com/phobos-instruments/QUIK-Knobs/blob/master/assets/enclosure.svg), the QUIK logo is a raster engrave, while all the other cuts and holes are vectorial cuts. We would recommend to engrave the raster first, and cutting last.
 
-You could also generate your own box that best suits your needs, using services such as [MakerCase](https://www.makercase.com/) or [Make A Box](https://makeabox.io/)
+You could also generate your own box that best suits your needs, using services such as [MakerCase](https://www.makercase.com/) or [Make A Box](https://makeabox.io/).
 
 We have used the following settings to cut and engrave the QUIK Knobs:
 * Raster engrave: Power: 10%, Speed: 100mm/s
