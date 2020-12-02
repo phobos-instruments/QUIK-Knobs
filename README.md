@@ -19,7 +19,7 @@ The equipment used to build the first QUIK prototype included:
 * [Solder iron](https://amzn.to/33mGC7c) and solder wire
 * [22 awg Solid Wire](https://amzn.to/2RlHK5f) of different colors (red, black and blue recommended)
 * [Micro-USB cable](https://amzn.to/3kdsOCF)
-* [K40 CO2 laser cutter](https://amzn.to/2ZtSumr)
+* [K40 CO2 laser cutter](https://amzn.to/2ZtSumr) (optional)
 * [Geeetech A20M 3D printer](https://amzn.to/35xCeFa) (optional)
 * [Inkscape](https://inkscape.org/), [Fritzing](https://fritzing.org/) and [Arduino IDE](https://www.arduino.cc/en/main/software) software (they're all free)
 * A few dreams, hours and boozes ❤️
